@@ -1,0 +1,2 @@
+Files to exclude: .geojson,.ts,.json,.svg,.lock(when changing redis and db ports)
+Add platform: linux/amd64 to docker-compose before after every 'image' line
